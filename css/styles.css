@@ -174,7 +174,7 @@ img{
 }
 
 .footer h4{
-    font-size: 1.4rem;
+    font-size: 1rem;
     margin-bottom: 0.5rem;
 }
 footer a{
@@ -196,7 +196,7 @@ footer a{
 }
 
 .services-Item h4{
-    font-size: 1.4rem;
+    font-size: 1rem;
 
     margin-bottom: 0.7rem;
 }
@@ -212,7 +212,7 @@ footer a{
 .team-flex{
     display: flex;
     gap: 1.4rem;
-}
+}s
 
 .team img{
     border-radius: 10px;
