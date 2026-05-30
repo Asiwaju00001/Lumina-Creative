@@ -273,7 +273,8 @@ footer a{
     .services .services-Item,
     .team .team-flex{
         flex-direction: column; 
-        gap: 1rem;
+        gap: 1.5rem;
+        align-items: center;
         text-align: center;
     }
     .header .main-menu{
@@ -303,7 +304,7 @@ footer a{
 
     .footer h4{ 
         font-size: 1.2 rem;
-        margin-bottom: 0.5rem;
+    
     }
 
 
