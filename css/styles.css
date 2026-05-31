@@ -63,7 +63,7 @@ img{
 .section-heading{
     font-size: 1.6rem;
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .container{
     max-width: var(--container-normal);
@@ -136,8 +136,6 @@ img{
     max-width: calc(33.3335-20px); 
     overflow: hidden;
     border-radius: 10px; 
-
-
 }
 
 .gallery-flex{    
