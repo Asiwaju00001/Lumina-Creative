@@ -70,6 +70,7 @@ img{
     margin: 0 auto;
     padding: 0 1.5rem;
 }
+    /* check this padding */
 
 .container-lg{
      max-width: var(--container-wide);
@@ -112,7 +113,7 @@ img{
 }
 
 .hero{
-    height: 500px;
+    padding: 3rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -125,6 +126,10 @@ img{
     font-weight: normal;
 }
 
+
+.gallery{
+    padding: 2rem 0;
+}
 
 .gallery-item{
     flex: 0 0 calc(33.333%-20px);
@@ -212,7 +217,7 @@ footer a{
 .team-flex{
     display: flex;
     gap: 1.4rem;
-}s
+}
 
 .team img{
     border-radius: 10px;
@@ -288,7 +293,7 @@ footer a{
     }
  
     .hero{
-        height: 300px;
+        padding: 2rem 0;
     }
     .hero h2{
         font-size: 1.8rem;
